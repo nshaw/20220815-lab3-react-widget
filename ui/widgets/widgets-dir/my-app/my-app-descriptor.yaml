@@ -1,0 +1,6 @@
+code: 20220815-ns-my-app
+titles:
+  en: NS My App Widget
+  it: Sample Cards Section Template
+group: free
+customUiPath: my-app.ftl
