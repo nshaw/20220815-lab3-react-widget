@@ -1,0 +1,5 @@
+code: 20220815-ns-react-widget
+description: Template for ent react projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/my-app/my-app-descriptor.yaml
